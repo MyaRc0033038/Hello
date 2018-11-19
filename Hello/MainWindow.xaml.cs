@@ -27,7 +27,7 @@ namespace Hello
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            M3ssageBoxShow
+            ; M3ssag3B0xSh0w:
         }
     }
 }
